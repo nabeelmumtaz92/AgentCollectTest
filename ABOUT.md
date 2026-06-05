@@ -1,5 +1,7 @@
 # ABOUT.md
 
+**Process evidence: commit timeline at https://github.com/nabeelmumtaz92/AgentCollectTest/commits/master**
+
 ## Why this role
 
 **I have experience with this exact type of problem — during an internship I manually scraped the internet for company founder information and built a spreadsheet of over 500 companies. Since transitioning to software engineering, I am drawn to AI-native roles because they let me write code to automate what I once did by hand, making the process significantly more efficient and scalable.**
